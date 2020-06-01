@@ -1,1 +1,1 @@
-FROM docker.io/istio/proxyv2:1.6.0
+FROM docker.io/istio/proxyv2:1.5.4
